@@ -1,8 +1,12 @@
 {
     "common": {
         "name": "blebox",
-        "version": "0.0.9",
+        "version": "0.0.10",
         "news": {
+            "0.0.10": {
+                "en": "",
+                "de": "Exception bei HTTP-Requests gefangen"
+            },
             "0.0.9": {
                 "en": "",
                 "de": "ShutterDown und ShutterStop gefixt"
