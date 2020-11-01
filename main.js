@@ -264,8 +264,8 @@ class Blebox extends utils.Adapter {
         locationUrl["deviceUptime"] = "/api/device/uptime";
         locationUrl["settingsState"] = "/api/settings/state";
         locationUrl["shutterSendUp"] = "/s/u";
-        locationUrl["shutterendDown"] = "/s/d";
-        locationUrl["shutterendStop"] = "/s/s";
+        locationUrl["shutterSendDown"] = "/s/d";
+        locationUrl["shutterSendStop"] = "/s/s";
         locationUrl["shutterFavorite"] = "/s/f/" + val;
         locationUrl["shutterPosition"] = "/s/p/" + val;
         locationUrl["shutterTilt"] = "/s/t/" + val;
